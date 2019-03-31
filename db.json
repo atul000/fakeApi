@@ -1,4 +1,5 @@
-[
+{
+    "users": [
     {
         "id": 1,
         "name": "atul",
@@ -22,6 +23,5 @@
         "name": "steve",
         "email": "steve15@gmail.com",
         "phone": "9971120133"
-    }
-
-]
+    }]
+}
